@@ -16,5 +16,3 @@ _`STUDIO_ARTIST`_ _`RHINOCEROS_3D_+_GRASSHOPPER`_ _`CIMCO_EDIT`_ _`INKSCAPE`_
 <br>
 
 <a href="https://ewwgene.github.io/Follio/300.jpg"><img src="https://ewwgene.github.io/Follio/300.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/301.jpg"><img src="https://ewwgene.github.io/Follio/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/303.jpg"><img src="https://ewwgene.github.io/Follio/303.jpg" height="66"></a> 
-<br>
-
