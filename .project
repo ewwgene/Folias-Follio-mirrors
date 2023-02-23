@@ -1,0 +1,7 @@
+{
+    "date": ["2020.09", "2021.03"],
+    "hardware": ["CNC_MILLING", "SCAN", "PLASTER"],
+    "software": ["STUDIO_ARTIST", "RHINOCEROS_3D_+_GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],
+    "overview": "",
+    "making": ""
+}
