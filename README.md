@@ -3,7 +3,7 @@
 ### Folias-Follio. — _DESIGN SERIES._
 [![Folias-Follio](/100.jpg)](https://ewwgene.github.io/Folias-Follio/Carousel)<a href="https://ewwgene.github.io/Folias-Follio/Carousel/#111"><img src="https://ewwgene.github.io/Folias-Follio/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/Carousel/#112"><img src="https://ewwgene.github.io/Folias-Follio/112.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/Carousel/#113"><img src="https://ewwgene.github.io/Folias-Follio/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/Carousel/#114"><img src="https://ewwgene.github.io/Folias-Follio/114.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/Carousel/#115"><img src="https://ewwgene.github.io/Folias-Follio/115.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/Carousel/#116"><img src="https://ewwgene.github.io/Folias-Follio/116.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/Carousel/#117"><img src="https://ewwgene.github.io/Folias-Follio/117.jpg" height="66"></a> 
 <br>
-_`SOLID_PINE_WOOD`_ _`PLASTER`_ 
+_`SOLID_PINE_WOOD`_ _`PLASTER`_ <br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
