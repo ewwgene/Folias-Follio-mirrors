@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Folias-Follio
 
-[![Folias-Follio](/100.jpg)](https://ewwgene.github.io/Folias-Follio/Carousel)<a id="111" href="https://ewwgene.github.io/Folias-Follio/Carousel/#111"><img src="https://ewwgene.github.io/Folias-Follio/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Folias-Follio/Carousel/#112"><img src="https://ewwgene.github.io/Folias-Follio/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Folias-Follio/Carousel/#113"><img src="https://ewwgene.github.io/Folias-Follio/113.jpg" height="66"></a> <a id="114" href="https://ewwgene.github.io/Folias-Follio/Carousel/#114"><img src="https://ewwgene.github.io/Folias-Follio/114.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Folias-Follio/Carousel/#115"><img src="https://ewwgene.github.io/Folias-Follio/115.jpg" height="66"></a> <a id="116" href="https://ewwgene.github.io/Folias-Follio/Carousel/#116"><img src="https://ewwgene.github.io/Folias-Follio/116.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Folias-Follio/Carousel/#117"><img src="https://ewwgene.github.io/Folias-Follio/117.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Folias-Follio](/100.jpg)](https://ewwgene.github.io/Folias-Follio/Carousel)<br> <a id="111" href="https://ewwgene.github.io/Folias-Follio/Carousel/#111"><img src="https://ewwgene.github.io/Folias-Follio/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Folias-Follio/Carousel/#112"><img src="https://ewwgene.github.io/Folias-Follio/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Folias-Follio/Carousel/#113"><img src="https://ewwgene.github.io/Folias-Follio/113.jpg" height="66"></a> <a id="114" href="https://ewwgene.github.io/Folias-Follio/Carousel/#114"><img src="https://ewwgene.github.io/Folias-Follio/114.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Folias-Follio/Carousel/#115"><img src="https://ewwgene.github.io/Folias-Follio/115.jpg" height="66"></a> <a id="116" href="https://ewwgene.github.io/Folias-Follio/Carousel/#116"><img src="https://ewwgene.github.io/Folias-Follio/116.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Folias-Follio/Carousel/#117"><img src="https://ewwgene.github.io/Folias-Follio/117.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="300" href="https://ewwgene.github.io/Folias-Follio/Carousel/#300"><img src="https://ewwgene.github.io/Folias-Follio/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/Folias-Follio/Carousel/#301"><img src="https://ewwgene.github.io/Folias-Follio/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Folias-Follio/Carousel/#303"><img src="https://ewwgene.github.io/Folias-Follio/303.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
