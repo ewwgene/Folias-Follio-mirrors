@@ -1,22 +1,23 @@
-
+﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Folias-Follio
 
 [![Folias-Follio](/100.jpg)](https://ewwgene.github.io/Folias-Follio/Carousel)<br> <a id="111" href="https://ewwgene.github.io/Folias-Follio/Carousel/#111"><img src="https://ewwgene.github.io/Folias-Follio/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Folias-Follio/Carousel/#112"><img src="https://ewwgene.github.io/Folias-Follio/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Folias-Follio/Carousel/#113"><img src="https://ewwgene.github.io/Folias-Follio/113.jpg" height="66"></a> <a id="114" href="https://ewwgene.github.io/Folias-Follio/Carousel/#114"><img src="https://ewwgene.github.io/Folias-Follio/114.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Folias-Follio/Carousel/#115"><img src="https://ewwgene.github.io/Folias-Follio/115.jpg" height="66"></a> <a id="116" href="https://ewwgene.github.io/Folias-Follio/Carousel/#116"><img src="https://ewwgene.github.io/Folias-Follio/116.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Folias-Follio/Carousel/#117"><img src="https://ewwgene.github.io/Folias-Follio/117.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Серия скульптур-зеркал в гипсовой раме на деревянной основе для выставки _ART TRENDWEEK 2020_ и мебельной фабрики _KAMEA_, Park Inn by Radisson, Новосибирск.
+ В основе лежит алгоритм _Развертки_ или _Развернутой коробки_ , воссозданный в _`HOUDINI`_. _Объект_ помещенный в воображаемую _коробку_ проецирует свою форму на каждую её грань. Теперь _коробка_ разворачивается и все отражение _объекта_, со всех сторон, оказываются видимыми одновременно. 
 
 ### Making — _2020.09-2021.03._
 <a id="101m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#101m"><img src="https://ewwgene.github.io/Folias-Follio/Making/101.jpg" height="66"></a> <a id="103m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#103m"><img src="https://ewwgene.github.io/Folias-Follio/Making/103.jpg" height="66"></a> <a id="105m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#105m"><img src="https://ewwgene.github.io/Folias-Follio/Making/105.jpg" height="66"></a> <a id="201m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#201m"><img src="https://ewwgene.github.io/Folias-Follio/Making/201.jpg" height="66"></a> <a id="401m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#401m"><img src="https://ewwgene.github.io/Folias-Follio/Making/401.jpg" height="66"></a> <a id="501m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#501m"><img src="https://ewwgene.github.io/Folias-Follio/Making/501.jpg" height="66"></a> <a id="600m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#600m"><img src="https://ewwgene.github.io/Folias-Follio/Making/600.jpg" height="66"></a> <a id="601m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#601m"><img src="https://ewwgene.github.io/Folias-Follio/Making/601.jpg" height="66"></a> <a id="602m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#602m"><img src="https://ewwgene.github.io/Folias-Follio/Making/602.jpg" height="66"></a> <a id="701m" href="https://ewwgene.github.io/Folias-Follio/Carousel/#701m"><img src="https://ewwgene.github.io/Folias-Follio/Making/701.jpg" height="66"></a>  
 
-_`HOUDINI_+_VOP&VEX`_ _`RHINOCEROS_3D_+_GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO_EDIT`_  _**`CNC_MILLING`**_ 
+_`HOUDINI`_ _`RHINOCEROS_3D`_ _`MESHLAB`_ _`GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO_EDIT`_  _**`CNC_MILLING`**_ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+В основе лежит алгоритм _Развертки_ или _Развернутой коробки_ , воссозданный в _`HOUDINI`_. _Объект_ помещенный в воображаемую _коробку_ проецирует свою форму на каждую её грань. Теперь _коробка_ разворачивается и все отражение _объекта_, со всех сторон, оказываются видимыми одновременно. 
 
 <a id="300" href="https://ewwgene.github.io/Folias-Follio/Carousel/#300"><img src="https://ewwgene.github.io/Folias-Follio/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/Folias-Follio/Carousel/#301"><img src="https://ewwgene.github.io/Folias-Follio/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Folias-Follio/Carousel/#303"><img src="https://ewwgene.github.io/Folias-Follio/303.jpg" height="66"></a> 
 
-_`DESIGN SERIES`_ _`SCULPTURE`_ 
+_`DESIGN SERIES`_ _`SCULPTURE`_ _`MIRRORS`_ 
 
 <br> 
 

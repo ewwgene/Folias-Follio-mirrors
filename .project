@@ -1,9 +1,9 @@
 {
     "date": ["2020.09", "2021.03"],
-    "medium": ["DESIGN SERIES", "SCULPTURE"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "medium": ["DESIGN SERIES", "SCULPTURE", "MIRRORS"],
+    "overview": "Серия скульптур-зеркал в гипсовой раме на деревянной основе для выставки _ART TRENDWEEK 2020_ и мебельной фабрики _KAMEA_, Park Inn by Radisson, Новосибирск.\n В основе лежит алгоритм _Развертки_ или _Развернутой коробки_ , воссозданный в _`HOUDINI`_. _Объект_ помещенный в воображаемую _коробку_ проецирует свою форму на каждую её грань. Теперь _коробка_ разворачивается и все отражение _объекта_, со всех сторон, оказываются видимыми одновременно. ",
     "material": ["SOLID_PINE_WOOD", "PLASTER"],
     "hardware": ["CNC_MILLING"],
-    "software": ["HOUDINI_+_VOP&VEX", "RHINOCEROS_3D_+_GRASSHOPPER", "ARTCAM", "CIMCO_EDIT"],
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "software": ["HOUDINI", "RHINOCEROS_3D", "MESHLAB", "GRASSHOPPER", "ARTCAM", "CIMCO_EDIT"],
+    "making": "В основе лежит алгоритм _Развертки_ или _Развернутой коробки_ , воссозданный в _`HOUDINI`_. _Объект_ помещенный в воображаемую _коробку_ проецирует свою форму на каждую её грань. Теперь _коробка_ разворачивается и все отражение _объекта_, со всех сторон, оказываются видимыми одновременно. "
 }
