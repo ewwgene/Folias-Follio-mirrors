@@ -12,7 +12,7 @@ _`SOLID_PINE_WOOD`_ _`PLASTER`_
 
 _`HOUDINI`_ _`MESHLAB`_ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO_EDIT`_  _**`CNC_MILLING`**_ _**`3D_SCANNING`**_ 
 
-Алгоритм собран в _`HOUDINI`_ с помощью _VOP_ и _VEX_ инструментов и с использованием _UV_-разветки текстуры и [_Slit-Scan_ алгоритма](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM). За референс взяты отсканированные элементы декора архитектуры, скульптуры и дизайна. Алгоритм рождает облака точек, которые замыкаются в _`MESHLAB`_.<br> Отдельные элементы выфрезерованны из гипсовых блоков на станке _**`CNC_MILLING`**_ и закреплены на массивной раме из дерева. Размеры: _1500mm&times;1000mm_.
+Алгоритм собран в _`HOUDINI`_ с помощью _VOP_ и _VEX_ инструментов и с использованием _UV_-разветки текстуры и [_Slit-Scan_ алгоритма](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM). За референс взяты отсканированные элементы декора архитектуры, скульптуры и дизайна. Алгоритм рождает облака точек, в _`MESHLAB`_ они замыкаются в _*.stl_ и дальше импортируются в _`RHINOCEROS_3D`_ для моделирования основы конструкции.<br> Отдельные элементы выфрезерованны из гипсовых блоков на станке _**`CNC_MILLING`**_ и закреплены на массивной раме из дерева. Размеры: _1500mm&times;1000mm_.
 
 <a id="300" href="https://ewwgene.github.io/Folias-Follio/Carousel/#300"><img src="https://ewwgene.github.io/Folias-Follio/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/Folias-Follio/Carousel/#301"><img src="https://ewwgene.github.io/Folias-Follio/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Folias-Follio/Carousel/#303"><img src="https://ewwgene.github.io/Folias-Follio/303.jpg" height="66"></a> 
 
