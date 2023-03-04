@@ -16,7 +16,7 @@ _`HOUDINI`_ _`MESHLAB`_ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO_EDI
 
 <a id="300" href="https://ewwgene.github.io/Folias-Follio/Carousel/#300"><img src="https://ewwgene.github.io/Folias-Follio/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/Folias-Follio/Carousel/#301"><img src="https://ewwgene.github.io/Folias-Follio/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Folias-Follio/Carousel/#303"><img src="https://ewwgene.github.io/Folias-Follio/303.jpg" height="66"></a> 
 
-_`DESIGN SERIES`_ _`SCULPTURE`_ _`MIRROR`_ 
+_`DESIGN_SERIES`_ _`SCULPTURE`_ _`MIRROR`_ 
 
 <br> 
 
